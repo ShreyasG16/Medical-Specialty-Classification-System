@@ -1,6 +1,6 @@
 # Medical Specialty Classification
 
-## 📌 Project Description
+##  Project Description
 This project focuses on building a **multi-class text classification system** to predict **40 medical specialties** from transcribed medical reports. The system processes medical transcription data, applies preprocessing, handles severe class imbalance, and evaluates multiple NLP models to determine the best-performing approach.
 
 ---
