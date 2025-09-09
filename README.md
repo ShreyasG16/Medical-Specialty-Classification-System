@@ -5,7 +5,7 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 - **Total Records:** 4,999 (expanded to 29,994 after augmentation)
 - **Features:**
   - **description:** Brief reason for the medical visit
@@ -18,7 +18,7 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 
-## 🛠 Methodology
+## Methodology
 1. **Data Preprocessing:**
    - Text cleaning (lowercasing, removing special characters, extra whitespace)
    - Duplicate & missing value removal
@@ -38,7 +38,7 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 
-## 📈 Results
+## Results
 | Model                  | Accuracy | Macro-F1 |
 |------------------------|----------|----------|
 | TF-IDF + SVM           | **82.8%** | **0.61** |
@@ -51,7 +51,7 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 ├── medical_specialty_classification.ipynb   # Jupyter Notebook with code
 ├── report.pdf                               # Detailed project report
@@ -60,12 +60,11 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Experiment with **ClinicalBERT** or **BioBERT** for domain-specific embeddings
 - Implement advanced data augmentation for medical text
 - Explore ensemble learning with both classical and transformer-based models
 
 ---
-
-**Author:** Shreyas Gore  
-**Tools:** Python, NLP, scikit-learn, Transformers, TF-IDF, SVM  
+## Tools
+- Python, NLP, scikit-learn, Transformers, TF-IDF, SVM  
