@@ -67,4 +67,4 @@ This project focuses on building a **multi-class text classification system** to
 
 ---
 ## Tools
-- Python, NLP, scikit-learn, Transformers, TF-IDF, SVM  
+Python, NLP, scikit-learn, Transformers, TF-IDF, SVM  
